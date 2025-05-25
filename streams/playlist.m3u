@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Abertos",Globo
+http://globo-live.example.com/stream.m3u8
+#EXTINF:-1 group-title="Abertos",SBT
+http://sbt-live.example.com/stream.m3u8
+#EXTINF:-1 group-title="Abertos",Record
+http://record-live.example.com/stream.m3u8
+#EXTINF:-1 group-title="Abertos",Band
+http://band-live.example.com/stream.m3u8
